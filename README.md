@@ -1,1 +1,1 @@
-# AsteriscTechnocrat_Internship_BILLIONAIRE_DATASET_EDA
+# AsteriscTechnocrat_Internship_Billionaire_dataset_EDA
